@@ -1,20 +1,30 @@
 # Table of contents
 
 * [BendingMC Wiki Hub](README.md)
+* [🛒 Shipping](shipping.md)
 
 ## Crops
 
 * [🌺 Foraging](crops/foraging.md)
-* [🪴 Growing](crops/growing.md)
+* [🌱 Growing](crops/growing.md)
+* [☁ Watering](crops/watering.md)
+* [🥬 Harvesting](crops/harvesting.md)
 
 ## Fishing
 
-* [Page 1](fishing/page-1.md)
+* [🐟 Introduction](fishing/introduction.md)
+* [🐡 Catching Fish](fishing/catching-fish.md)
+* [💰 Treasure Chests](fishing/treasure-chests.md)
+* [🧲 Fishing Bait and Modifiers](fishing/fishing-bait-and-modifiers.md)
+* [🎣 Fishing Rods](fishing/fishing-rods.md)
+* [🏅 Fishing Competitions](fishing/fishing-competitions.md)
 
 ## Cooking
 
-* [Page 2](cooking/page-2.md)
+* [🧀 Introduction](cooking/introduction.md)
+* [📚 The Recipe Book](cooking/the-recipe-book.md)
 
 ## Brewery
 
-* [Page 3](brewery/page-3.md)
+* [🍻 Getting Started](brewery/getting-started.md)
+* [🍾 Distilling and Quality](brewery/distilling-and-quality.md)
