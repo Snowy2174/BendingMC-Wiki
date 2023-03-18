@@ -1,4 +1,4 @@
-# 🌱 Growing
+# 🪴 Growing
 
 Crops as a system is built to work in tandem with vanilla yet, _unlike what you're used to_, plants grow by **one stage each morning** in-game. However, crops are bound by certain conditions of growth for example: only being able to be grown in certain seasons, all crops are only able to be grown in planting pots, requiring watering and so on. Crops also require exposure to sunlight, (A **sky-light** level of _**eight or higher**_) to grow.\
 **Planting Pot**

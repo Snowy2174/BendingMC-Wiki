@@ -1,14 +1,14 @@
 # Table of contents
 
 * [BendingMC Wiki Hub](README.md)
-* [🛒 Shipping](shipping.md)
 
 ## Crops
 
 * [🌺 Foraging](crops/foraging.md)
-* [🌱 Growing](crops/growing.md)
+* [🪴 Growing](crops/growing.md)
 * [☁ Watering](crops/watering.md)
 * [🥬 Harvesting](crops/harvesting.md)
+* [🛒 Shipping](crops/shipping.md)
 
 ## Fishing
 
