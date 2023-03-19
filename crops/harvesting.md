@@ -13,7 +13,7 @@ There are currently 4 types of fertilizer.
 * Quality: this fertilizer contains rare compounds and natural hormones to allow the crop to grow to larger sizes and _increases the chances to produce a higher tier_, only the first tier is available and the second can be caught as a rare drop from fishing chests.
 * Yield: this fertilizer contains powerful nutrients which promote the growth of a larger yield _causing the crop to drop more produce_ the first tier can be caught as an uncommon drop from fishing chests.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>The first tiers of speed, quality, retaining, and yield respectively.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>The first tiers of speed, quality, retaining, and yield respectively.</p></figcaption></figure>
 
 ## Giant
 
@@ -21,4 +21,4 @@ Some crops like **Tomato** and **Cabbage** have a very low chance to grow into w
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>A pot displays green particles when it has been right clicked with fertilizer.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>A pot displays green particles when it has been right clicked with fertilizer.</p></figcaption></figure>

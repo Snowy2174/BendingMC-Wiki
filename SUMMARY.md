@@ -8,6 +8,7 @@
 * [🪴 Growing](crops/growing.md)
 * [☁ Watering](crops/watering.md)
 * [🥬 Harvesting](crops/harvesting.md)
+* [🐦 Crows and Scarecrows](crops/crows-and-scarecrows.md)
 * [🛒 Shipping](crops/shipping.md)
 
 ## Fishing

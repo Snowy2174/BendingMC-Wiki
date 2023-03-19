@@ -8,9 +8,9 @@ Each crop has an assigned value that changes based on statistics about it, these
 
 The shipping bin is a new block added by the custom crops update. It allows you to place down a shipping bin in your town to sell your produce and rafted goods for profit!                                         &#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>The recipe for the shipping bin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>The recipe for the shipping bin</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>How the shipping container looks placed down</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>How the shipping container looks placed down</p></figcaption></figure>
 
 ## The Farmer
 
