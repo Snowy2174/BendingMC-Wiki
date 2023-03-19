@@ -1,4 +1,4 @@
-# 🍻 Getting Started
+# 🍻 Brewery - Getting Started
 
 Brewing is a process that can be as simple as putting ingredients in a cauldron or as complicated as a three step system, allowing for the making of drinks ranging from Vodka and Blueberry Wine to Iced Coffee. The process is very much discovery focused, and quick mastery of this art isn't to be taken lightly.
 
@@ -14,7 +14,7 @@ The first step in brewing consists of Fermenting the fresh Ingredients.
 
 _Tip : Use a clock on a cauldron by right clicking if you want to check the time the ingredients have been fermenting. The brew will also emit particles while boiling._
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>A cauldron over a fire source</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>A cauldron over a fire source</p></figcaption></figure>
 
 ## Barrel Aging
 
@@ -24,7 +24,7 @@ Aging is the process of letting your drinks mature in a barrel, this is done to 
 
 **Standard Barrel:** _| 6 available Slots |_ The Standard barrel can be used for aging of a few brews. Simply craft and place the barrel and put the brews inside.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>A Standard Barrel</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>A Standard Barrel</p></figcaption></figure>
 
 **Small barrel**  _|  9 available Slots |_ Use 8 wooden stairs to build a barrel shape. Place a Sign on the lower right side and write "Barrel" on the top line.
 
@@ -32,11 +32,11 @@ Aging is the process of letting your drinks mature in a barrel, this is done to 
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Example of a small Barrel (Front)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Example of a small Barrel (Front)</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Example of a small Barrel (side)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Example of a small Barrel (side)</p></figcaption></figure>
 
 </div>
 
@@ -46,11 +46,11 @@ Aging is the process of letting your drinks mature in a barrel, this is done to 
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Large Barrel (Back)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Large Barrel (Back)</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Large Barrel (front)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Large Barrel (front)</p></figcaption></figure>
 
 </div>
 

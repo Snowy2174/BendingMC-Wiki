@@ -12,4 +12,4 @@ Currently all players who participate will receive a small sum as a reward for p
 
 
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>The start of a Fishing Competition, make sure to get fishing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>The start of a Fishing Competition, make sure to get fishing</p></figcaption></figure>

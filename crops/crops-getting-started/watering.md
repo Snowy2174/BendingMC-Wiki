@@ -14,7 +14,7 @@ The upgraded form of the copper watering can, crafted with iron ingots it can co
 
 The upgraded form of the iron watering can, crafted with golden ingots and blocks it can contain five water and has a range of 3 x 3 blocks
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>The recipe for the first tier of watering can, the copper watering can. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>The recipe for the first tier of watering can, the copper watering can. </p></figcaption></figure>
 
 ## Sprinkler
 
@@ -24,11 +24,11 @@ The first sprinkler tier is crafted with iron ingots, redstone and sticks it is 
 
 The second tier of sprinkler is crafted with one Iron sprinkler and gold ingots and contains seven water and irrigates all blocks within a range of two.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>The recipe for the first tier of sprinkler, the iron sprinkler. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>The recipe for the first tier of sprinkler, the iron sprinkler. </p></figcaption></figure>
 
 
 
 \
 
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>From right to left: a dry Pot, a moist Pot and the first tier of Sprinkler.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>From right to left: a dry Pot, a moist Pot and the first tier of Sprinkler.</p></figcaption></figure>

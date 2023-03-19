@@ -5,11 +5,11 @@ Crops as a system is built to work in tandem with vanilla yet, _unlike what you'
 
 * The “Planting Pot” is a newly introduced block they are fairly cheap to craft and you will find yourself using a lot of these due to the fact they are the only block in which custom crops can be planted.
 
-<figure><img src="../.gitbook/assets/image_2023-03-16_214803333.png" alt=""><figcaption><p>An example of the planting pot recipe, similar to that of the composter.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image_2023-03-16_214803333.png" alt=""><figcaption><p>An example of the planting pot recipe, similar to that of the composter.</p></figcaption></figure>
 
 **Seasonal Crops**
 
 \- A very important aspect of the crops system are the four Seasons, **Winter**, **Spring**, **Summer**, and **Autumn**. - Most crops are seasonally dependant, _this means they are only able to grown certain seasons (usually two or more)_, these planting seasons are based loosely on their real-life counterparts. You are able to grow roughly around the same number of crops in each season with the exception of **winter** where only a total of **six** crops can be grown.\
 
 
-<figure><img src="../.gitbook/assets/image_2023-03-16_215041320.png" alt=""><figcaption><p>An example of a planting pot that contains a stage one plant.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image_2023-03-16_215041320.png" alt=""><figcaption><p>An example of a planting pot that contains a stage one plant.</p></figcaption></figure>

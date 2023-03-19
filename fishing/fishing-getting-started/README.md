@@ -1,6 +1,6 @@
-# 🐟 Introduction
+# 🐟 Fishing - Getting Started
 
-Currently, a total of **14 new fish** have been introduced! Each new fish has three quality variants - very similar to those of crops - and these higher qualities of fish are both _worth more_ and are _less common_, with the exception of the vanilla fish which have one tier.
+Currently, a total of **14 new fish** have been introduced! Each new fish has three quality variants and these higher qualities of fish are both _worth more_ and are _less common_, with the exception of the vanilla fish which have one tier.
 
 ## Seasons
 
@@ -10,10 +10,8 @@ Each of the new fish are evenly distributed between the four seasons where most 
 
 Fish are split into three categories based on biome: River fish, Ocean fish and Deep-Ocean fish, where they will only be found in their corresponding biome as well as fulfilling the other three conditions.&#x20;
 
-**DISCLAIMER:** biome conditions currently aren’t too strict as we’d like for you to be able to catch a variety of fish wherever you fish without constricting too much.
-
 ## Time
 
 Some fish have a preference for different conditions such as only appearing during rain and thunder or possibly only at night, dawn and dusk, these will be the much rarer fish that you can catch.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>An example of one of the fish introduced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>An example of one of the fish introduced</p></figcaption></figure>

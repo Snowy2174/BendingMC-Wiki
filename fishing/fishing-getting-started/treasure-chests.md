@@ -12,4 +12,4 @@ Some examples of the treasure chest contents are sea salt, broken armour, higher
 
 However! We won’t be telling you too much here so go out and explore! Also watch out for variant fishing chests in the future which may contain even rarer loot as well as seasonal or cave treasure chests that will contain specific loot.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>The three states of the treasure chest, with the opening animation.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>The three states of the treasure chest, with the opening animation.</p></figcaption></figure>

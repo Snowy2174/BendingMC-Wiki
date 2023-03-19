@@ -10,11 +10,11 @@ There are currently _three_ types of bait, the magnet bait, which attracts fish 
 * **Quality** – This bait can also be obtained via fished up treasure chests but less commonly or can be crafted using two basic bait and a diamond creating two quality baits
 * Double – Wild bait doesn’t currently have any sources other than as an extremely rare drop from treasure chests, possibly someone on the spawn island may know more about it in the future…
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Three of the bait types pictured, basic, wild and magnet respectively</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Three of the bait types pictured, basic, wild and magnet respectively</p></figcaption></figure>
 
 \
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>The fishing bag, used to store your bait and it gets used automatically</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The fishing bag, used to store your bait and it gets used automatically</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>The crafting recipie for simple bait, don't let that flesh go to waste!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>The crafting recipie for simple bait, don't let that flesh go to waste!</p></figcaption></figure>

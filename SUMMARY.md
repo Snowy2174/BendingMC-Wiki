@@ -1,31 +1,31 @@
 # Table of contents
 
-* [BendingMC Wiki Hub](README.md)
+* [BendingMC Wiki](README.md)
 
 ## Crops
 
-* [🌺 Foraging](crops/foraging.md)
-* [🪴 Growing](crops/growing.md)
-* [☁ Watering](crops/watering.md)
-* [🥬 Harvesting](crops/harvesting.md)
-* [🐦 Crows and Scarecrows](crops/crows-and-scarecrows.md)
-* [🛒 Shipping](crops/shipping.md)
+* [🌺 Crops - Getting Started](crops/crops-getting-started/README.md)
+  * [🪴 Growing](crops/crops-getting-started/growing.md)
+  * [🐦 Crows and Scarecrows](crops/crops-getting-started/crows-and-scarecrows.md)
+  * [☁ Watering](crops/crops-getting-started/watering.md)
+  * [🥬 Harvesting](crops/crops-getting-started/harvesting.md)
+  * [🛒 Shipping](crops/crops-getting-started/shipping.md)
 
 ## Fishing
 
-* [🐟 Introduction](fishing/introduction.md)
-* [🐡 Catching Fish](fishing/catching-fish.md)
-* [💰 Treasure Chests](fishing/treasure-chests.md)
-* [🧲 Fishing Bait and Modifiers](fishing/fishing-bait-and-modifiers.md)
-* [🎣 Fishing Rods](fishing/fishing-rods.md)
-* [🏅 Fishing Competitions](fishing/fishing-competitions.md)
-
-## Cooking
-
-* [🧀 Introduction](cooking/introduction.md)
-* [📚 The Recipe Book](cooking/the-recipe-book.md)
+* [🐟 Fishing - Getting Started](fishing/fishing-getting-started/README.md)
+  * [🐡 Catching Fish](fishing/fishing-getting-started/catching-fish.md)
+  * [💰 Treasure Chests](fishing/fishing-getting-started/treasure-chests.md)
+  * [🧲 Fishing Bait and Modifiers](fishing/fishing-getting-started/fishing-bait-and-modifiers.md)
+  * [🎣 Fishing Rods](fishing/fishing-getting-started/fishing-rods.md)
+  * [🏅 Fishing Competitions](fishing/fishing-getting-started/fishing-competitions.md)
 
 ## Brewery
 
-* [🍻 Getting Started](brewery/getting-started.md)
-* [🍾 Distilling and Quality](brewery/distilling-and-quality.md)
+* [🍻 Brewery - Getting Started](brewery/brewery-getting-started/README.md)
+  * [🍾 Distilling and Quality](brewery/brewery-getting-started/distilling-and-quality.md)
+
+## Cooking
+
+* [🧀 Introduction](cooking/introduction/README.md)
+  * [📚 The Recipe Book](cooking/introduction/the-recipe-book.md)

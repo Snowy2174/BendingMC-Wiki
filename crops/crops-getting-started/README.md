@@ -1,4 +1,4 @@
-# 🌺 Foraging
+# 🌺 Crops - Getting Started
 
 In the context of custom crops, foraging refers to the process of obtaining seeds and natural crops, In the wild there are two main ways: wilderness gardens and seed crafting. More ways will be possible in the future as the system is expanded.
 
@@ -12,8 +12,8 @@ In the context of custom crops, foraging refers to the process of obtaining seed
 
 \- Any crop _(found foraging, bought from other players or harvested from a cultivated plant)_ can be put into a crafting grid to receive one of the corresponding seed type regardless of tier, with a _1:1_ ratio.
 
-<figure><img src="../.gitbook/assets/image_2023-03-16_214423006.png" alt=""><figcaption><p>All shrubs from left to right: Arid, Frosty, Shaded, Soggy, Tropical and Windy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image_2023-03-16_214423006.png" alt=""><figcaption><p>All shrubs from left to right: Arid, Frosty, Shaded, Soggy, Tropical and Windy</p></figcaption></figure>
 
 ***
 
-<figure><img src="../.gitbook/assets/image_2023-03-16_214530394.png" alt=""><figcaption><p>An example of crafting one of any produce item into the corresponding seed.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image_2023-03-16_214530394.png" alt=""><figcaption><p>An example of crafting one of any produce item into the corresponding seed.</p></figcaption></figure>
