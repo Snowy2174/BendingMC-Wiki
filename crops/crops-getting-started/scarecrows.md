@@ -1,4 +1,4 @@
-# 🐦 Crows and Scarecrows
+# 🦅 Scarecrows
 
 Another challenge your crops will face is the threat of being damaged by crows, every day there is a random chance your crops will be attacked by these bird monsters, ruining your crop.
 

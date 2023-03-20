@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1609859682240-6860cf3d99d5?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxmaXNoaW5nfGVufDB8fHx8MTY3OTM0OTkyNg&ixlib=rb-4.0.3&q=80
+coverY: -58
+---
+
 # 🐟 Fishing - Getting Started
 
 Currently, a total of **14 new fish** have been introduced! Each new fish has three quality variants and these higher qualities of fish are both _worth more_ and are _less common_, with the exception of the vanilla fish which have one tier.

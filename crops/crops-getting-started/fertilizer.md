@@ -1,4 +1,4 @@
-# 🥬 Harvesting
+# 🦴 Fertilizer
 
 When it comes time to harvest your crop (with a right click) your plant will drop a varying number of item, each time you harvest the quality of your produce is random, the crops will be a mixture of three tiers which increase in rarity: **Common, Uncommon and Rare**
 
@@ -14,10 +14,6 @@ There are currently 4 types of fertilizer.
 * **Yield**: this fertilizer contains powerful nutrients which promote the growth of a larger yield _causing the crop to drop more produce_ the first tier can be caught as an uncommon drop from fishing chests.
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>The first tiers of speed, quality, retaining, and yield respectively.</p></figcaption></figure>
-
-## Giant
-
-Some crops like **Tomato** and **Cabbage** have a very low chance to grow into what is known as a "Giant Crop" where it swells up to an overgrown full-block form, when broken, these giant crops _drop a much larger number of produce_ than it would under normal circumstances.
 
 
 

@@ -1,2 +1,0 @@
-# 🍾 Distilling and Quality
-

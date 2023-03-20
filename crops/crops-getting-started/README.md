@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1499529112087-3cb3b73cec95?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxmYXJtaW5nfGVufDB8fHx8MTY3OTM0OTk4Ng&ixlib=rb-4.0.3&q=80
+coverY: 0
+---
+
 # 🌺 Crops - Getting Started
 
 In the context of custom crops, foraging refers to the process of obtaining seeds and natural crops, In the wild there are two main ways: wilderness gardens and seed crafting. More ways will be possible in the future as the system is expanded.

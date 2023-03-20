@@ -22,6 +22,10 @@ coverY: 51
 [brewery-getting-started](brewery/brewery-getting-started/)
 {% endcontent-ref %}
 
+{% content-ref url="shipping.md" %}
+[shipping.md](shipping.md)
+{% endcontent-ref %}
+
 ##
 
 ## Other Useful Links :
