@@ -4,22 +4,23 @@ description: >-
   including our custom mobs, menus, and items.
 cover: .gitbook/assets/pretty arena tree and korra.png
 coverY: 51
+layout: landing
 ---
 
 # BendingMC Wiki
 
 > "You have light and peace inside of you. If you let it out, you can change the world around you" \~Iroh
 
-{% content-ref url="crops/crops-getting-started/" %}
-[crops-getting-started](crops/crops-getting-started/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fishing/fishing-getting-started/" %}
-[fishing-getting-started](fishing/fishing-getting-started/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="brewery/brewery-getting-started/" %}
-[brewery-getting-started](brewery/brewery-getting-started/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="shipping.md" %}

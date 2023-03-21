@@ -18,6 +18,6 @@ A very important aspect of the crops system are the four Seasons, **Winter**, **
 
 * Another new block introduced is **Greenhouse Glass**, this block is very expensive to craft but allows you to plant **any crop** regardless of season as long as the pot is under the glass, meaning **only one** glass is needed per pot.
 
-<figure><img src="../../.gitbook/assets/image_2023-03-20_222027842.png" alt=""><figcaption><p>An example of the greenhouse glass recipe, requires one diamond.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image_2023-03-21_172245859.png" alt=""><figcaption><p>An example of the greenhouse glass recipe, requires one diamond and tinted glass</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/2023-03-20_22.19.37.png" alt=""><figcaption><p>Greenhouse Glass when placed into the world</p></figcaption></figure>

@@ -1,4 +1,10 @@
-# 🍻 Brewery - Getting Started
+---
+cover: >-
+  https://images.unsplash.com/photo-1566467021572-37fbefe8fcb2?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxiYXJyZWxzfGVufDB8fHx8MTY3OTQzMTI5NA&ixlib=rb-4.0.3&q=80
+coverY: 0
+---
+
+# 🍻 Getting Started
 
 Brewing is a process that can be as simple as putting ingredients in a cauldron or as complicated as a three step system, allowing for the making of drinks ranging from **Vodka** and **Blueberry Wine** to Iced Coffee. The process is very much discovery focused, and quick mastery of this art isn't to be taken lightly. Depending on how well **Fermentation**, (**Distilling** when applicable) and **Aging** are performed this will affect the quality of the produced drink, shown in the **item's lore as stars**, higher quality drinks will have a **higher value** and **less negative effects** when drunk.
 

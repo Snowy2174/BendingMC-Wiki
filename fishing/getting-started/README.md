@@ -4,7 +4,7 @@ cover: >-
 coverY: -58
 ---
 
-# 🐟 Fishing - Getting Started
+# 🦈 Getting Started
 
 Currently, a total of **14 new fish** have been introduced! Each new fish has three quality variants and these higher qualities of fish are both _worth more_ and are _less common_, with the exception of the vanilla fish which have one tier.
 

@@ -10,7 +10,7 @@ Decant the piping hot mixture into three glass bottles and age for a few years i
 
 ### Drink Information
 
-There are no known positive effects other than the customers' enjoyment of this spirit. it is well known to be a drink for the upper class.
+There are no known positive effects other than the customers' enjoyment of this brew. it is well known to be a drink for the upper class.
 
 When brewed correctly This drink will have a golden colouration and should have a beautiful sheen.
 
