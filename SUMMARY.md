@@ -49,7 +49,11 @@
     * [🍫 Hot Chocolate](brewery/getting-started/recipe-hints/hot-chocolate.md)
     * [🍶 Sake](brewery/getting-started/recipe-hints/sake.md)
 
-## Cooking
+## 🍲 Cooking
 
-* [🧀 Introduction](cooking/introduction/README.md)
-  * [📚 The Recipe Book](cooking/introduction/the-recipe-book.md)
+* [🧀 Getting Started](cooking/getting-started/README.md)
+  * [📖 Recipe Book](cooking/getting-started/recipe-book.md)
+  * [🍲 Cooking Pot](cooking/getting-started/cooking-pot.md)
+  * [🍳 Cooking Dishes](cooking/getting-started/cooking-dishes.md)
+  * [✨ Mastery](cooking/getting-started/mastery.md)
+  * [🍖 Dish Buffs](cooking/getting-started/dish-buffs.md)
