@@ -52,8 +52,8 @@
 ## 🍲 Cooking
 
 * [🧀 Getting Started](cooking/getting-started/README.md)
-  * [📖 Recipe Book](cooking/getting-started/recipe-book.md)
   * [🍲 Cooking Pot](cooking/getting-started/cooking-pot.md)
+  * [📖 Recipe Book](cooking/getting-started/recipe-book.md)
   * [🍳 Cooking Dishes](cooking/getting-started/cooking-dishes.md)
   * [✨ Mastery](cooking/getting-started/mastery.md)
   * [🍖 Dish Buffs](cooking/getting-started/dish-buffs.md)

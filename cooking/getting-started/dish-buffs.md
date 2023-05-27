@@ -1,11 +1,21 @@
 # 🍖 Dish Buffs
 
-### Combat
+### :crossed\_swords: Combat
 
-### Fortification
+combat buffs for x mins at y tier
 
-### Hearty
+### :shield: Fortification
 
-### Agility
+fortification buffs for x mins at y tier
+
+### :heart: Hearty
+
+hearty buffs for x mins at y tier
+
+### :cloud: Agility
+
+agility buffs for x mins at y tier
 
 ## Rarity
+
+stronger dish = longer effects = more effects
