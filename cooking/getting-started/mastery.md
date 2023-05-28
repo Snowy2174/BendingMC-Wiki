@@ -1,13 +1,27 @@
 # ✨ Mastery
 
-## Mastery Progress
-
-when cook dish perfectly mastery go up by 1 mastery value is outta a set value for each recipe
-
 ## Mastery
 
-when you get mastery means you really good at cooking that dish, and you can choose to skip cooking minigame
+Mastery describes how good a player is at cooking certain dishes.<br>
+
+Each dish has its own mastery value that can be found in the [recipe book](https://#), and<br>
+can be increased until the maximum value is reached.<br>
+
+When the maximum value is reached, the dish will appear as mastered, which<br>
+will unlock the ability for it to be cooked automatically.
+
+[mastered dish image here]
+
+## Mastery Progress
+
+Successfully cooking a dish will increase its mastery value by 1.<br>
+The dish will be fully mastered once the maximum value of mastery is reached.
+
+[mastery level image here]
 
 ### Autocooking
 
-by left clicking on a mastered recipe in the recipe book you can choose to skip the minigame and get a normal quality item straight away
+Once a dish is fully mastered, the [cooking minigame](https://#) can be skipped by left clicking on the recipe in the recipe book.<br>
+Note that autocooking will only cook normal dishes. Perfect dishes can only be obtained by playing the [cooking minigame](https://#).
+
+[autocook instructions item lore image here]
