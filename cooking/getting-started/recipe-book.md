@@ -2,10 +2,11 @@
 
 ## Using the Recipe Book
 
-The recipe book is used to cook all kinds of dishes.
+The recipe book displays all locked and unlocked recipes.<br>
+Locked recipes will appear in gray, while unlocked recipes appear in full color.
 
-To get started, click on a dish that is unlocked, and a minigame will start.<br>
-If completed successfully, the minigame will stop and the selected dish will be cooked.
+Clicking on any of the unlocked recipes, if all ingredients are provided, will trigger a minigame.<br>
+After successfully completing the minigame, the selected dish will be cooked.
 
 [minigame image here]
 
