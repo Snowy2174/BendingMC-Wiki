@@ -22,6 +22,6 @@ The dish will be fully mastered once the maximum value of mastery is reached.
 ### Autocooking
 
 Once a dish is fully mastered, the [cooking minigame](https://bendingmc.gitbook.io/bendingmc-wiki/cooking/getting-started/cooking-dishes#the-cooking-bar) can be skipped by left clicking on the recipe in the recipe book.<br>
-Note that autocooking will only cook normal dishes. Perfect dishes can only be obtained by playing the [cooking minigame](https://bendingmc.gitbook.io/bendingmc-wiki/cooking/getting-started/cooking-dishes#the-cooking-bar).
+Note that autocooking will only cook normal dishes. Perfect dishes can only be obtained by playing the cooking minigame.
 
 [autocook instructions item lore image here]
