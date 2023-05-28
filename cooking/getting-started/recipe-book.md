@@ -5,8 +5,8 @@
 The recipe book displays all locked and unlocked recipes.<br>
 Locked recipes will appear in gray, while unlocked recipes appear in full color.
 
-Clicking on any of the unlocked recipes, if all ingredients are provided, will trigger a minigame.<br>
-After successfully completing the [minigame](https://bendingmc.gitbook.io/bendingmc-wiki/cooking/getting-started/cooking-dishes#the-cooking-bar), the selected dish will be cooked.
+Clicking on any of the unlocked recipes, if all ingredients are provided, will trigger a [minigame](https://bendingmc.gitbook.io/bendingmc-wiki/cooking/getting-started/cooking-dishes#the-cooking-bar).<br>
+After successfully completing the minigame, the selected dish will be cooked.
 
 [minigame image here]
 
