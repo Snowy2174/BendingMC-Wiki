@@ -2,14 +2,22 @@
 
 ## Using the Recipe Book
 
-click unlocked recipe to start cooking
+The recipe book is used to cook all kinds of dishes.
+
+To get started, click on a dish that is unlocked, and a minigame will start.<br>
+If completed successfully, the minigame will stop and the selected dish will be cooked.
+
+[minigame image here]
 
 ## Unlocking Recipes
 
-recipe scraps, used to unlock one recipe that you've not discovered
+New recipes can be unlocked by collecting recipe scraps.<br>
+Collecting those will unlock a random, unknown recipe.
 
-get recipe scraps from fishing and quests n that
+Recipe scraps can be acquired by fishing, quests, and random loot found throughout the map.
 
-special recipes from special bosses, see more in future
+[recipe scrap image here]
+
+Some special recipes can only be unlocked by defeating certain bosses. See more in the future.
 
 <figure><img src="../../.gitbook/assets/image_2023-03-31_223654275.png" alt=""><figcaption></figcaption></figure>
