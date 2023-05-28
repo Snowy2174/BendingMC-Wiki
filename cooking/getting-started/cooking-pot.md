@@ -11,7 +11,7 @@ description: >-
 The cooking pot is the heart of cooking, and is how dishes are prepared.<br>
 More can be learned by talking to the chef.
 
-Right clicking on the cooking pot will open the [recipe book](https://#).<br>
+Right clicking on the cooking pot will open the [recipe book](https://bendingmc.gitbook.io/bendingmc-wiki/cooking/getting-started/recipe-book).<br>
 The recipe book is used to select the dishes that will be cooked.
 
 <figure><img src="../../.gitbook/assets/image_2023-03-31_222618688.png" alt=""><figcaption><p>The unlit cooking pot when placed down into the world</p></figcaption></figure>
