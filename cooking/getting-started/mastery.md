@@ -4,7 +4,7 @@
 
 Mastery describes how good a player is at cooking certain dishes.<br>
 
-Each dish has its own mastery value that can be found in the [recipe book](https://#), and<br>
+Each dish has its own mastery value that can be found in the [recipe book](https://bendingmc.gitbook.io/bendingmc-wiki/cooking/getting-started/recipe-book), and<br> 
 can be increased until the maximum value is reached.<br>
 
 When the maximum value is reached, the dish will appear as mastered, which<br>
@@ -21,7 +21,7 @@ The dish will be fully mastered once the maximum value of mastery is reached.
 
 ### Autocooking
 
-Once a dish is fully mastered, the [cooking minigame](https://#) can be skipped by left clicking on the recipe in the recipe book.<br>
-Note that autocooking will only cook normal dishes. Perfect dishes can only be obtained by playing the [cooking minigame](https://#).
+Once a dish is fully mastered, the [cooking minigame](https://bendingmc.gitbook.io/bendingmc-wiki/cooking/getting-started/cooking-dishes#the-cooking-bar) can be skipped by left clicking on the recipe in the recipe book.<br>
+Note that autocooking will only cook normal dishes. Perfect dishes can only be obtained by playing the [cooking minigame](https://bendingmc.gitbook.io/bendingmc-wiki/cooking/getting-started/cooking-dishes#the-cooking-bar).
 
 [autocook instructions item lore image here]
