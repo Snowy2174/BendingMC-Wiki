@@ -8,7 +8,7 @@ Right clicking when the arrow on the bar is on green will successfully complete 
 [minigame bar image here]
 
 This minigame can be skipped after fully mastering a dish.
-See [mastery](https://#) for more information.
+See [mastery](https://bendingmc.gitbook.io/bendingmc-wiki/cooking/getting-started/mastery) for more information.
 
 ## Perfection
 
