@@ -20,4 +20,4 @@ Recipe scraps can be acquired by fishing, quests, and random loot found througho
 
 Some special recipes can only be unlocked by defeating certain bosses. See more in the future.
 
-<figure><img src="../../.gitbook/assets/image_2023-03-31_223654275.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image_2023-03-31_223654275.png" alt=""><figcaption>Recipe book with locked recipes</figcaption></figure>
