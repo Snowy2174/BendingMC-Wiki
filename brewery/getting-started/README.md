@@ -32,7 +32,7 @@ Aging is the process of letting your drinks mature in a barrel, this is done to 
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>A Standard Barrel</p></figcaption></figure>
 
-**Small barrel**  _|  9 available Slots |_ Use 8 wooden stairs to build a barrel shape. Place a Sign on the lower right side and write "Barrel" on the top line.
+**Small barrel** _| 9 available Slots |_ Use 8 wooden stairs to build a barrel shape. Place a Sign on the lower right side and write "Barrel" on the top line.
 
 "Barrel created" should appear in chat.
 
@@ -42,17 +42,17 @@ Aging is the process of letting your drinks mature in a barrel, this is done to 
 
  
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Example of a small Barrel (side)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Example of a small Barrel (side)</p></figcaption></figure>
 
 </div>
 
-**Large barrel**  _|  27 available Slots_ | Use 5 Fences, 16 Wooden stairs, and 18 wood planks to build a barrel shape. Attach a Fence and a Sign that has "Barrel" on the top line.
+**Large barrel** _| 27 available Slots_ | Use 5 Fences, 16 Wooden stairs, and 18 wood planks to build a barrel shape. Attach a Fence and a Sign that has "Barrel" on the top line.
 
 "Barrel created" should appear in chat. Note, you can then remove the sign from the big barrel
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Large Barrel (Back)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Large Barrel (Back)</p></figcaption></figure>
 
  
 
