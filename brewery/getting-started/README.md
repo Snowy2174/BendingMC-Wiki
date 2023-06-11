@@ -52,7 +52,7 @@ Aging is the process of letting your drinks mature in a barrel, this is done to 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Large Barrel (Back)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>Large Barrel (Back)</p></figcaption></figure>
 
  
 

@@ -19,14 +19,6 @@ layout: landing
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="shipping.md" %}
 [shipping.md](shipping.md)
 {% endcontent-ref %}

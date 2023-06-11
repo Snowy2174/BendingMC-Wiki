@@ -57,3 +57,9 @@
   * [🍳 Cooking Dishes](cooking/getting-started/cooking-dishes.md)
   * [✨ Mastery](cooking/getting-started/mastery.md)
   * [🍖 Dish Buffs](cooking/getting-started/dish-buffs.md)
+
+## 🪄 Enchanting
+
+* [📚 Getting Started](enchanting/getting-started/README.md)
+  * [⚗ Dust, Alchemist and Tinkerer](enchanting/getting-started/dust-alchemist-and-tinkerer.md)
+  * [📜 Enchanting Scrolls](enchanting/getting-started/enchanting-scrolls.md)

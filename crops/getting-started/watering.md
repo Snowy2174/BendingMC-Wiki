@@ -22,8 +22,8 @@ The first sprinkler tier is crafted with iron ingots, redstone and sticks it is 
 
 The second tier of sprinkler is crafted with one Iron sprinkler and gold ingots and contains seven water and irrigates all blocks within a range of two.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>The recipe for the first tier of sprinkler, the iron sprinkler.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>The recipe for the first tier of sprinkler, the iron sprinkler.</p></figcaption></figure>
 
 \\
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>From right to left: a dry Pot, a moist Pot and the first tier of Sprinkler.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption><p>From right to left: a dry Pot, a moist Pot and the first tier of Sprinkler.</p></figcaption></figure>

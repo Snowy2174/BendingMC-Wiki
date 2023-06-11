@@ -8,4 +8,4 @@ The only way you can protect your crop from this avian pest is the use of a scar
 
 The scarecrow can be crafted with three sticks, one melon block and a piece of wheat using a workbench.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>An example of the Melon Lord protecting some crops.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>An example of the Melon Lord protecting some crops.</p></figcaption></figure>
