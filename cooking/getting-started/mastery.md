@@ -2,12 +2,10 @@
 
 ## Mastery
 
-Mastery describes how good a player is at cooking certain dishes.\
-
+Mastery describes how good a player is at cooking certain dishes.\\
 
 Each dish has its own mastery value that can be found in the [recipe book](https://bendingmc.gitbook.io/bendingmc-wiki/cooking/getting-started/recipe-book), and\
-can be increased until the maximum value is reached.\
-
+can be increased until the maximum value is reached.
 
 When the maximum value is reached, the dish will appear as mastered, which\
 will unlock the ability for it to be cooked automatically.

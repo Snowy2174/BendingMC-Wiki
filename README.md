@@ -19,6 +19,14 @@ layout: landing
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 {% content-ref url="shipping.md" %}
 [shipping.md](shipping.md)
 {% endcontent-ref %}
@@ -35,5 +43,3 @@ layout: landing
 [Commands and Permissions](http://wiki.projectkorra.com/en/latest/pkcore/commands.html)[ - ProjectKorra documentation](http://wiki.projectkorra.com/en/latest/pkcore/commands.html)
 
 [Towny User Guide](https://github.com/TownyAdvanced/Towny/wiki/Towny-Commands) [·](https://github.com/TownyAdvanced/SiegeWar/wiki/Siege-War-User-Guide) [TownyAdvanced/Towny](https://github.com/TownyAdvanced/Towny/wiki/Towny-Commands)
-
-[Siege War User Guide · TownyAdvanced/SiegeWar Wiki](https://github.com/TownyAdvanced/SiegeWar/wiki/Siege-War-User-Guide)
