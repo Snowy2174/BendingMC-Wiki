@@ -12,20 +12,20 @@ Each item has an assigned value that changes periodically, these values will cha
 There are two ways to ship, these are described below:
 
 {% hint style="info" %}
-#### Fish
+**Fish**
 
 Fish sold through shipping work a little different, as well as coming in three tiers, each rarer to find than the last, fish also will sell for more based on their **size** value as larger fish are valued more than smaller fish.
 {% endhint %}
 
 ## Shipping Bin
 
-The first method of shipping is the **Shipping Bin** which is a new block that has been added, It is placed down to sell your produce, they **must be placed within your town** to ensure that your products can be collected, **right clicking** this block with open the shipping menu, where you can place your items and **click ship** to receive your money!                                         &#x20;
+The first method of shipping is the **Shipping Bin** which is a new block that has been added, It is placed down to sell your produce, they **must be placed within your town** to ensure that your products can be collected, **right clicking** this block with open the shipping menu, where you can place your items and **click ship** to receive your money!
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption><p>An example of the crafting recipe for the shipping bin</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>An example of the crafting recipe for the shipping bin</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>How the shipping container looks when it is placed down</p></figcaption></figure>
 
-## The Farmer and Angler&#x20;
+## The Farmer and Angler
 
 Your second option when it comes to shipping your produce is though talking to one of the people found a little further into spawn, The farmer and the Angler, they will take produce of your hands, by opening the shipping menu, giving you the same value as would be given with the shipping bin.
 
