@@ -13,7 +13,7 @@ Crops as a system is built to work in tandem with vanilla yet, _unlike what you'
 
 ## **Seasonal Crops**
 
-A very important aspect of the crops system are the four Seasons, **Winter**, **Spring**, **Summer**, and **Autumn**. - Most crops are seasonally dependant, _this means they are only able to grown certain seasons (usually two or more)_, these planting seasons are based loosely on their real-life counterparts. You are able to grow roughly around the same number of crops in each season with the exception of **winter** where only a total of **six** crops can be grown.\\
+A very important aspect of the crops system are the four Seasons, **Winter**, **Spring**, **Summer**, and **Autumn**. - Most crops are seasonally dependant, _this means they are only able to grown certain seasons (usually two or more)_, these planting seasons are based loosely on their real-life counterparts. You are able to grow roughly around the same number of crops in each season with the exception of **winter** where only a total of **six** crops can be grown.
 
 <div align="left">
 

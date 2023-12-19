@@ -23,7 +23,7 @@ The first method of shipping is the **Shipping Bin** which is a new block that h
 
 <figure><img src=".gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>An example of the crafting recipe for the shipping bin</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>How the shipping container looks when it is placed down</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>How the shipping container looks when it is placed down</p></figcaption></figure>
 
 ## The Farmer and Angler
 

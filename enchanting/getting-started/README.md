@@ -16,7 +16,7 @@ The six rarities from cheapest to most expensive include, **common**, **uncommon
 
 Enchants are purchased with experience and not money, and there are varieties for tools and armour, some for combat and some for utility.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Enchantments are also very unique, and each one you get has a different success rate, even if it is the same enchant. Some also have levels like **Metal Extraction** with three levels. The success rate is the probability of the enchant being applied to your tool, else your tool will get destroyed with the enchant. There are ways to prevent this.
 

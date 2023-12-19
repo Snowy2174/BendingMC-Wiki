@@ -22,6 +22,4 @@ In the context of custom crops, foraging refers to the process of obtaining seed
 
 ***
 
-***
-
 <figure><img src="../../.gitbook/assets/image_2023-03-16_214530394.png" alt=""><figcaption><p>An example of crafting one of any produce item into the corresponding seed.</p></figcaption></figure>
