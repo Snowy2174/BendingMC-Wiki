@@ -8,7 +8,7 @@
 * [🌺 Getting Started](crops/getting-started/README.md)
   * [🪴 Growing & Seasons](crops/getting-started/growing-and-seasons.md)
   * [🦅 Scarecrows](crops/getting-started/scarecrows.md)
-  * [☁ Watering](crops/getting-started/watering.md)
+  * [☁️ Watering](crops/getting-started/watering.md)
   * [🦴 Fertilizer](crops/getting-started/fertilizer.md)
 
 ## 🐟 Fishing
@@ -61,5 +61,5 @@
 ## 🪄 Enchanting
 
 * [📚 Getting Started](enchanting/getting-started/README.md)
-  * [⚗ Dust, Alchemist and Tinkerer](enchanting/getting-started/dust-alchemist-and-tinkerer.md)
+  * [⚗️ Dust, Alchemist and Tinkerer](enchanting/getting-started/dust-alchemist-and-tinkerer.md)
   * [📜 Enchanting Scrolls](enchanting/getting-started/enchanting-scrolls.md)

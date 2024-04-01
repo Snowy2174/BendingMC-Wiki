@@ -9,7 +9,11 @@ layout: landing
 
 # BendingMC Wiki
 
-> "You have light and peace inside of you. If you let it out, you can change the world around you" \~Iroh
+> "You have light and peace inside of you. If you let it out, you can change the world around you" \~ Iroh
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
@@ -42,4 +46,4 @@ layout: landing
 \
 [Commands and Permissions](http://wiki.projectkorra.com/en/latest/pkcore/commands.html)[ - ProjectKorra documentation](http://wiki.projectkorra.com/en/latest/pkcore/commands.html)
 
-[Towny User Guide](https://github.com/TownyAdvanced/Towny/wiki/Towny-Commands) [·](https://github.com/TownyAdvanced/SiegeWar/wiki/Siege-War-User-Guide) [TownyAdvanced/Towny](https://github.com/TownyAdvanced/Towny/wiki/Towny-Commands)
+[  ](https://github.com/CryptoMorin/KingdomsX/wiki/Introduction)[https://github.com/CryptoMorin/KingdomsX/wiki/Introduction](https://github.com/CryptoMorin/KingdomsX/wiki/Introduction)
