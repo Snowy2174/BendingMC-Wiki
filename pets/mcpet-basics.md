@@ -11,11 +11,14 @@ For example, you would feed a wolf meat to tame it. It's the exact same in BMC!
 - Taming: 10 Sugar
 - Leveling: Melons
 
+***Lemur***
 - Taming: 10 Glow Berries
 - Leveling: Sweet Berries
 
+***Turtle Duck***
 - Taming: 10 Bread
 - Leveling: Wheat
 ### All of these pets can be levelled by entering combat, however it is highly advised against as they have low health pools.
-![image](https://github.com/user-attachments/assets/3758bc3d-5e58-43c6-a1db-5415be8101bb)
+![image](https://github.com/user-attachments/assets/139a732c-df8d-442a-a083-ad2b988f702f)
+
 
