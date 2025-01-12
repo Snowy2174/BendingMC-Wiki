@@ -32,20 +32,20 @@ Pet experience is gained through two different tasks at the moment.
 # Level Ups!
 Levelling up pets increases all of their base stats significantly. At this point in time it also means that your pet gains an extra inventory slot!
 
-###Before:
+### Before:
 
 ![image](https://github.com/user-attachments/assets/174cfe34-6fc9-4aeb-bfb5-5beceb84bc3c)
 
-###After:
+### After:
 
 ![image](https://github.com/user-attachments/assets/39e412e7-9adc-4a3d-95d3-cee45c59c150)
 
-###Before:
+### Before:
 
 ![image](https://github.com/user-attachments/assets/1e436e0f-52cb-4fbb-ac24-e71b7e6b81c9)
 
 
-###After:
+### After:
 
 ![image](https://github.com/user-attachments/assets/94cfbbb7-9dff-45fd-a1a8-81c6a09fc422)
 
