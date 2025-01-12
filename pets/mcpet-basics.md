@@ -20,4 +20,5 @@ For example, you would feed a wolf meat to tame it. It's the exact same in BMC!
 - Taming: 10 Hay Bales
 - Leveling: Apples
 ### All of these pets can be levelled by entering combat, however it is highly advised against as they have low health pools.
-![image](https://github.com/user-attachments/assets/b8be06e8-5845-4800-bfd4-f7b88460afa3)
+![image](https://github.com/user-attachments/assets/3758bc3d-5e58-43c6-a1db-5415be8101bb)
+
