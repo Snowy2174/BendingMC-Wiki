@@ -7,7 +7,7 @@
 Taming pets in BMC is essentially the same as taming any other tameable creature within minecraft. 
 For example, you would feed a wolf meat to tame it. It's the exact same in BMC!
 # What do the pets eat?
-###Sugar Glider:
+***Sugar Glider:***
 - Taming: 10 Sugar
 - Leveling: Melons
 
