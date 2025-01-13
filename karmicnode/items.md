@@ -1,6 +1,13 @@
-# Items
+# Items and Drops
 
-- Every single item has a 1/200 chance of being dropped by a Karmic Node spirit. These items can also be obtained through the spirit shop, which is accessible through Hei Bai or the command /spiritshop.
+- Every single item has a 1/1000 chance of being dropped by a Karmic Node spirit. These items can also be obtained through the spirit shop, which is accessible through Hei Bai or the command /spiritshop.
+- There is a 1% chance that you get jade from killing spirits.
+- A 10% chance to get one to three ender pearls.
+- A 10% chance to get one to two shulker shells.
+- A 5% chance to get one ghast tear.
+- A 1% chance to get one bundle.
+- A 5% chance to get one spirit mushroom seed.
+- A 10% chance to get one spirit shard.
 
 ## Armour
 
